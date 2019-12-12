@@ -9576,3 +9576,1103 @@ Traceback (most recent call last):
   File "/home/pi/bin/southpump.py", line 20, in <module>
     bus.write_i2c_block_data(0x2B, 0x92, command2)
 IOError: [Errno 121] Remote I/O error
+2019-12-12 06:45:02 , tempC=23.0, hum%=40.0,
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 06:50:02 , tempC=24.0, hum%=40.0,
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.006
+ALERT! LOW Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 06:55:02 , tempC=24.0, hum%=39.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 07:00:03 , tempC=24.0, hum%=39.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.081
+ALERT! LOW Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 07:05:02 , tempC=24.0, hum%=38.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.068
+ALERT! LOW Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 07:10:02 , tempC=24.0, hum%=38.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.018
+ALERT! LOW Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 07:15:02 , tempC=24.0, hum%=39.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.009
+ALERT! LOW Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 07:20:02 , tempC=24.0, hum%=39.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.012
+ALERT! LOW Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 07:25:05 , tempC=24.0, hum%=38.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.019
+ALERT! LOW Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.031
+ALERT! LOW Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 07:30:02 , tempC=24.0, hum%=38.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.081
+ALERT! LOW Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 07:35:02 , tempC=25.0, hum%=36.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.006
+ALERT! LOW Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 07:40:02 , tempC=25.0, hum%=37.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.037
+ALERT! LOW Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 07:45:02 , tempC=25.0, hum%=38.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.075
+ALERT! LOW Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 07:50:02 , tempC=25.0, hum%=39.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 07:55:02 , tempC=25.0, hum%=39.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.024
+ALERT! LOW Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 08:00:02 , tempC=25.0, hum%=39.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.123
+ALERT! LOW Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.011
+ALERT! LOW Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 08:05:02 , tempC=25.0, hum%=39.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.074
+ALERT! LOW Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.020
+ALERT! LOW Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 08:10:02 , tempC=24.0, hum%=42.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.018
+ALERT! LOW Power!!!
+Channel no : 4 
+Current Value : 0.006
+ALERT! LOW Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 08:15:03 , tempC=24.0, hum%=40.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.073
+ALERT! LOW Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 08:20:03 , tempC=24.0, hum%=40.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.169
+ALERT! LOW Power!!!
+Channel no : 4 
+Current Value : 0.013
+ALERT! LOW Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 08:25:08 , tempC=24.0, hum%=39.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.038
+ALERT! LOW Power!!!
+Channel no : 2 
+Current Value : 0.020
+ALERT! LOW Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 08:30:02 , tempC=24.0, hum%=39.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.011
+ALERT! LOW Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 08:35:04 , tempC=24.0, hum%=39.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.020
+ALERT! LOW Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.013
+ALERT! LOW Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 08:40:02 , tempC=24.0, hum%=39.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.010
+ALERT! LOW Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 08:45:02 , tempC=24.0, hum%=38.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.084
+ALERT! LOW Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 08:50:05 , tempC=24.0, hum%=38.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.013
+ALERT! LOW Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.098
+ALERT! LOW Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 08:55:10 , tempC=24.0, hum%=38.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 09:00:04 , tempC=24.0, hum%=38.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.014
+ALERT! LOW Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 09:05:02 , tempC=24.0, hum%=38.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.023
+ALERT! LOW Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 09:10:08 , tempC=24.0, hum%=37.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.015
+ALERT! LOW Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 09:15:03 , tempC=25.0, hum%=37.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.020
+ALERT! LOW Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 09:20:05 , tempC=24.0, hum%=37.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.036
+ALERT! LOW Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.013
+ALERT! LOW Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 09:25:02 , tempC=24.0, hum%=37.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.067
+ALERT! LOW Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 09:30:02 , tempC=24.0, hum%=37.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.072
+ALERT! LOW Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 09:35:05 , tempC=24.0, hum%=37.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.095
+ALERT! LOW Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.017
+ALERT! LOW Power!!!
+Channel no : 4 
+Current Value : 0.006
+ALERT! LOW Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 09:40:02 , tempC=24.0, hum%=37.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.054
+ALERT! LOW Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.003
+ALERT! LOW Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 09:45:02 , tempC=24.0, hum%=38.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.030
+ALERT! LOW Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 09:50:02 , tempC=24.0, hum%=38.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.025
+ALERT! LOW Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.009
+ALERT! LOW Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 09:55:05 , tempC=24.0, hum%=40.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.024
+ALERT! LOW Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.025
+ALERT! LOW Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 10:00:02 , tempC=24.0, hum%=39.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.044
+ALERT! LOW Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.013
+ALERT! LOW Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 10:05:02 , tempC=24.0, hum%=39.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.075
+ALERT! LOW Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 09:50:03 , tempC=17.0, hum%=53.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 12:00:02 , tempC=18.0, hum%=69.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
+2019-12-12 12:05:02 , tempC=17.0, hum%=51.0.
+
+Temperature Nominal
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 1 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 2 
+Current Value : 0.000
+ALERT! NO Power!!!
+Type of Sensor : 4
+Maximum Current : 100 A
+No. of Channels : 4
+Channel no : 3 
+Current Value : 0.000
+ALERT! NO Power!!!
+Channel no : 4 
+Current Value : 0.000
+ALERT! NO Power!!!
+Traceback (most recent call last):
+  File "/home/pi/bin/southpump.py", line 20, in <module>
+    bus.write_i2c_block_data(0x2B, 0x92, command2)
+IOError: [Errno 121] Remote I/O error
